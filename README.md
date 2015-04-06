@@ -1,2 +1,2 @@
 # leetcode
-在leetcode的ACM情况
+自己在leetcode的ACM情况

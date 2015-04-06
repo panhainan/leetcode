@@ -4,9 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.phn.from41.Permutations;
+
 /**
  * @author phn
- * @TODO 全排列
+ * @TODO 测试全排列
  * @date 2015年4月6日
  */
 public class TestPermutations {

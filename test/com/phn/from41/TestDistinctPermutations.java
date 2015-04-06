@@ -2,9 +2,12 @@ package com.phn.from41;
 
 import java.util.List;
 
+import com.phn.from41.DistinctPermutation;
+
 
 /**
- * @author phn TODO 全排列
+ * @author phn 
+ * @TODO 测试全排列（去除重复列）
  * @date 2015年4月6日
  */
 public class TestDistinctPermutations {
